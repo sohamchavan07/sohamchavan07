@@ -15,9 +15,7 @@
 
 ## About me
 Currently, I’m focused on Ruby on Rails and I’m always open to connecting with professionals who share a similar drive for innovation and growth.! 
-
 I would like to work on real world projects
-
 I am a Fullstack Developer from India.
 
 
