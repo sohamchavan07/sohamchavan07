@@ -22,19 +22,45 @@ I am a Fullstack Developer from India.
 ## Learning
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Babel](https://img.icons8.com/color/48/000000/babel.png)
 
-## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shukhov-Mihail&show_icons=true&theme=dark)](https://github.com/Shukhov-Mihail)
+# sohamchavan07
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shukhov-Mihail&theme=dark)](https://git.io/streak-stats)
+## Overview
+- ⚡ Fun fact: I teach "IT Basics" to computer newbies and have lived in 4 countries.
 
-## Latest Project
-- **[stellar-burgers](https://github.com/Shukhov-Mihail/stellar-burgers)**  
-  - Type: Application  
-  - Language: HTML (1%)
+## Skills and Technologies:
+- [Ruby](#)
+- [Rails](#)
+- [Sinatra](#)
+- [PostgreSQL](#)
+- [SQLite](#)
+- [Postman](#)
+- [TypeScript](#)
+- [JavaScript](#)
+- [jQuery](#)
+- [React](#)
+- [React Router](#)
+- [React Native](#)
+- [Redux](#)
+- [HTML5](#)
+- [Haml](#)
+- [CSS3](#)
+- [Sass](#)
+- [TailwindCSS](#)
+- [Bootstrap](#)
+- [GreenSock](#)
+- [Shell Script](#)
+- [Docker](#)
+- [AWS](#)
 
-## Top Contributors
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shukhov-Mihail&layout=compact&theme=dark)](https://github.com/Shukhov-Mihail)
-
-![Night Scene](https://via.placeholder.com/500x300) <!-- Replace with actual image URL -->
+## Most Used Languages
+- HTML: 40.44%  
+- Ruby: 23.98%  
+- JavaScript: 13.69%  
+- CSS: 10.09%  
+- SCSS: 7.84%  
+- Python: 1.23%  
+- Haml: 1.16%  
+- Go: 0.97%  
+- Shell: 0.60%
 
 
