@@ -4,8 +4,8 @@
 
 ## Skills and Technologies
 
-| :ruby: Ruby | :railway_track: Rails | :tophat: Sinatra |
-|-------------|-----------------------|------------------|
+| :ruby: Ruby | :railway_track: Rails |
+|-------------|-----------------------|
 | :elephant: PostgreSQL | :file_cabinet: SQLite | :email: Postman |
 | :yellow_heart: JavaScript | :gem: jQuery | :triangular_ruler: HTML5 | 
 | :art: CSS3 | :scissors: SASS | :wind_blowing_face: TailwindCSS |
