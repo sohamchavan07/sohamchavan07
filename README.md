@@ -9,7 +9,7 @@
 | :elephant: PostgreSQL | :file_cabinet: SQLite | :email: Postman |
 | :yellow_heart: JavaScript | :gem: jQuery | :triangular_ruler: HTML5 | 
 | :art: CSS3 | :scissors: SASS | :wind_blowing_face: TailwindCSS |
-| :boot: Bootstrap  :shell: Shell Script |
+| :boot: Bootstrap |
 | :whale: Docker | :cloud: AWS |
 
 ## Most Used Languages
