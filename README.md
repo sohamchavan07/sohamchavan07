@@ -1,18 +1,18 @@
 # Overview
 
-- :zap: **Fun fact:** I teach "IT Basics" to computer newbies and have lived in 4 countries.
+- :zap: Fun fact: I teach "IT Basics" to computer newbies and have lived in 4 countries.
 
 ## Skills and Technologies
 
-| Ruby :ruby: | Rails :railway_track: | Sinatra :tophat: |
+| :ruby: Ruby | :railway_track: Rails | :tophat: Sinatra |
 |-------------|-----------------------|------------------|
-| PostgreSQL :elephant: | SQLite :file_cabinet: | Postman :email: |
-| TypeScript :blue_book: | JavaScript :yellow_heart: | jQuery :gem: |
-| React :atom: | React Router :arrows_counterclockwise: | Redux :package: |
-| React Native :iphone: | HTML5 :triangular_ruler: | HAML :pencil2: |
-| CSS3 :art: | SASS :scissors: | TailwindCSS :wind_blowing_face: |
-| Bootstrap :boot: | GreenSock :green_heart: | Shell Script :shell: |
-| Docker :whale: | AWS :cloud: |
+| :elephant: PostgreSQL | :file_cabinet: SQLite | :email: Postman |
+| :blue_book: TypeScript | :yellow_heart: JavaScript | :gem: jQuery |
+| :atom: React | :arrows_counterclockwise: React Router | :package: Redux |
+| :iphone: React Native | :triangular_ruler: HTML5 | :pencil2: HAML |
+| :art: CSS3 | :scissors: SASS | :wind_blowing_face: TailwindCSS |
+| :boot: Bootstrap | :green_heart: GreenSock | :shell: Shell Script |
+| :whale: Docker | :cloud: AWS |
 
 ## Most Used Languages
 
