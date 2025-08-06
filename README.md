@@ -1,7 +1,15 @@
 # Overview
 
-- :zap: Fun fact: I teach "IT Basics" to computer newbies and have lived in 4 countries.
+# Hey, I’m [Your Name] 👋
+I'm a self-taught frontend developer from [Your Location]. I specialize in TypeScript, React, and Next.js, with a passion for building high-performance, user-friendly applications. Recently, I’ve been exploring [your interest, e.g., DevOps, AI, etc.].
 
+- 🖥 [My Portfolio Website](https://yourportfolio.github.io)
+- 🤝 [My LinkedIn](https://linkedin.com/in/yourprofile)
+- 🚀 Check out my open-source projects below!
+
+## Featured Projects
+- **[Project Name]**: A [description, e.g., feature-rich e-commerce store built with React]. [Live Demo](#) | [Repo](#)
+- **[Project Name]**: A [description, e.g., Reddit clone with TypeScript and SCSS]. [Live Demo](#) | [Repo](#)
 ## Skills and Technologies
 
 | :ruby: Ruby | :railway_track: Rails |
