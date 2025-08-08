@@ -1,5 +1,5 @@
 # Overview
-# [Your Name]'s Portfolio
+# [Soham chavan]'s Portfolio
 
 Welcome to my portfolio website, hosted at [https://yourusername.github.io](https://yourusername.github.io). This is a single-page application (SPA) built with **React**, **TypeScript**, and **SCSS**, showcasing my skills and projects as a self-taught frontend developer. Inspired by clean, responsive design, this portfolio highlights my work in building high-performance web applications.
 
@@ -23,7 +23,7 @@ Welcome to my portfolio website, hosted at [https://yourusername.github.io](http
    git clone https://github.com/yourusername/yourusername.github.io.git
    cd yourusername.github.io
 
-# Hey, I’m [Your Name] 👋
+# Hey, I’m [Soham] 👋
 I'm a self-taught frontend developer from [Your Location]. I specialize in TypeScript, React, and Next.js, with a passion for building high-performance, user-friendly applications. Recently, I’ve been exploring [your interest, e.g., DevOps, AI, etc.].
 
 - 🖥 [My Portfolio Website](https://yourportfolio.github.io)
