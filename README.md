@@ -16,7 +16,7 @@ I'm **Soham**, a passionate **Fullstack Developer** from India, dedicated to cra
 - ✨ I love creating new projects or enhancing existing ones to deliver polished, user-friendly products.
 - 🚀 Constantly improving my skills and exploring new technologies.
 - 🌍 Eager to collaborate with a team to build impactful solutions that benefit users worldwide.
-- 💻 Actively seeking job opportunities. Check out my [portfolio](https://sohamchavan3d.vercel.app/)!
+- 💻 Actively seeking job opportunities. Check out my [portfolio](https://www.sohamchavan.site/)!
 
 <p align="center">
   <a href="https://x.com/soham_chavan07">
