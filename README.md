@@ -27,7 +27,7 @@ I'm **Soham**, a passionate **Fullstack Developer** from India, dedicated to cra
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </p>
-
+---
 ## 🛠️ Skills and Technologies
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" style="animation: fadeIn 1s ease-in;">
@@ -44,7 +44,7 @@ I'm **Soham**, a passionate **Fullstack Developer** from India, dedicated to cra
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="animation: fadeIn 3.2s ease-in;">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" style="animation: fadeIn 3.4s ease-in;">
 </div>
-
+---
 ## 📊 Most Used Languages
 <div style="height: 20px; width: 100%; background: linear-gradient(to right, #E34F26 0%, #E34F26 40.44%, #701516 40.44%, #701516 64.42%, #F0DB4F 64.42%, #F0DB4F 78.05%, #563D7C 78.05%, #563D7C 88.15%, #CD6799 88.15%, #CD6799 95.99%, #3572A5 95.99%, #3572A5 97.22%, #EADF8F 97.22%, #EADF8F 98.38%, #00ADD8 98.38%, #00ADD8 99.35%, #89E051 99.35%, #89E051 100%); border-radius: 5px; animation: slideIn 1.5s ease-in-out;"></div>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
