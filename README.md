@@ -1,5 +1,5 @@
-![Descriptive Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dpaXpnODR3ZmZyM2J2Z3ZwMGNiNnRmcWg0OHRwMHBvNGJwaGtzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UA8yzZgQeq3C02eA2/giphy.gif)
->
+<img align="center" alt ="coding" width ="320" height="250" src = "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+
 
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #2E2E2E;">👋 Welcome to My Profile!</h1>
 
