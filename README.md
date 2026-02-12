@@ -45,19 +45,3 @@ I'm **Soham**, a passionate **Fullstack Developer** from India, dedicated to cra
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="animation: fadeIn 3.2s ease-in;">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" style="animation: fadeIn 3.4s ease-in;">
 </div>
-
----
-## 📊 Most Used Languages
-<div style="height: 20px; width: 100%; background: linear-gradient(to right, #E34F26 0%, #E34F26 40.44%, #701516 40.44%, #701516 64.42%, #F0DB4F 64.42%, #F0DB4F 78.05%, #563D7C 78.05%, #563D7C 88.15%, #CD6799 88.15%, #CD6799 95.99%, #3572A5 95.99%, #3572A5 97.22%, #EADF8F 97.22%, #EADF8F 98.38%, #00ADD8 98.38%, #00ADD8 99.35%, #89E051 99.35%, #89E051 100%); border-radius: 5px; animation: slideIn 1.5s ease-in-out;"></div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
-  <span style="color: #E34F26;">● HTML 95%</span>
-  <span style="color: #701516;">● Ruby 90%</span>
-  <span style="color: #F0DB4F;">● JavaScript 90%</span>
-  <span style="color: #563D7C;">● CSS 85%</span>
-  <span style="color: #3572A5;">● Python 80%</span>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamchavan07&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="animation: fadeIn 2s ease-in;">
-</p>
-
