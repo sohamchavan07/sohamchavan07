@@ -3,41 +3,36 @@
 
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #2E2E2E;">👋 Welcome to My Profile!</h1>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sh1yuu.sh1yuu" alt="visitors" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=200&section=header&text=Soham%20Chavan&fontSize=50&fontColor=white&fontAlignY=55&desc=Fullstack%20Developer%20%7C%20Ruby%20on%20Rails%20Specialist&descAlignY=75&descSize=18&animation=fadeIn" width="100%" />
+
+</div>
 
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Soham+%F0%9F%91%8B;Fullstack+Developer+%7C+Rails+Specialist;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=120&section=header&text=Soham%20Chavan&fontSize=40&fontColor=white&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CC0000&center=true&vCenter=true&width=550&lines=Building+scalable+Rails+backends+%F0%9F%9A%80;Fullstack+Dev+%7C+React+%2B+Rails;Open+to+Freelance+%26+Collaborations;EdTech+Enthusiast+%F0%9F%93%9A" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 💬 About Me
+## 👋 About Me
 
-I'm **Soham**, a **Fullstack Developer** from 🇮🇳 India, specializing in **Ruby on Rails** — building clean, fast, and scalable web applications.
+I'm **Soham**, a **Fullstack Developer** from 🇮🇳 India — **Ruby on Rails** is my core stack, and I use it to build clean, fast, and scalable web applications from MVPs to full backends.
 
-- 🎂 17 years old and already building production-grade apps
-- 🔴 **Rails is my weapon of choice** — from MVPs to full-scale backends
-- ✨ Passionate about creating polished, user-friendly digital products
-- 🚀 Always exploring new tech — currently deep-diving into **React-in-Rails**, **PostgreSQL**, and **AI tooling**
-- 💡 EdTech enthusiast — I believe the college system is broken and I want to help fix it
-- 💼 Actively freelancing & building indie products — check out my **[portfolio →](https://www.sohamchavan.site/)**
+- 🔴 **Rails-first** developer with deep focus on backend architecture and API design
+- ⚡ Currently diving into **React-in-Rails**, **Advanced ActiveRecord**, and **AI tooling**
+- 🎓 EdTech enthusiast — I think the college system is broken and I'm building to fix it
+- 💼 Actively freelancing & shipping indie products — [see my portfolio →](https://www.sohamchavan.site/)
+- 🤝 Open to **freelance projects**, **remote opportunities**, and **collaborations**
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/soham_chavan07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohamchavan07/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamchavan.sc07@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-CC0000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.sohamchavan.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohamchavan07/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/soham_chavan07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamchavan.sc07@gmail.com)
 
 </div>
 
@@ -45,7 +40,8 @@ I'm **Soham**, a **Fullstack Developer** from 🇮🇳 India, specializing in **
 
 ## 🛠️ Tech Stack
 
-### 🔴 Core — Ruby on Rails Ecosystem
+**Core — Ruby on Rails Ecosystem**
+
 <div align="center">
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -56,7 +52,8 @@ I'm **Soham**, a **Fullstack Developer** from 🇮🇳 India, specializing in **
 
 </div>
 
-### 🎨 Frontend
+**Frontend**
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -69,26 +66,39 @@ I'm **Soham**, a **Fullstack Developer** from 🇮🇳 India, specializing in **
 
 </div>
 
-### ⚙️ DevOps & Tools
+**DevOps & Tools**
+
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 What I'm Currently Building
+## 🚀 Featured Projects
 
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| 🎯 **[Goalz](https://goalz-app.vercel.app)** | Productivity app with push notifications | HTML/JS + Firebase FCM | 🔨 Active |
-| 🤖 **Super Interviewer Agent** | AI-powered interview prep tool | Rails + PostgreSQL + AI | 🔨 Active |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎯 <a href="https://goalz-app.vercel.app">Goalz</a></h3>
+      <p>Productivity app with push notifications, goal tracking, and offline support. Converted to APK for mobile users.</p>
+      <p><strong>Stack:</strong> HTML · JS · Firebase FCM · Web Notifications API</p>
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h3>🤖 Super Interviewer Agent</h3>
+      <p>AI-powered interview prep tool that generates questions, evaluates answers, and gives structured feedback.</p>
+      <p><strong>Stack:</strong> Ruby on Rails · PostgreSQL · AI/LLM Integration</p>
+      <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -96,8 +106,9 @@ I'm **Soham**, a **Fullstack Developer** from 🇮🇳 India, specializing in **
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohamchavan07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=CC0000&icon_color=CC0000"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamchavan07&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=CC0000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohamchavan07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=CC0000&icon_color=CC0000" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamchavan07&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=CC0000" />
 
 </div>
 
@@ -113,10 +124,10 @@ I'm **Soham**, a **Fullstack Developer** from 🇮🇳 India, specializing in **
 
 ```ruby
 soham = {
-  deepening:   ["React inside Rails", "esbuild + Tailwind", "Advanced ActiveRecord"],
-  exploring:   ["AI tooling with Ollama", "Gemma 3", "Firebase Cloud Messaging"],
-  goal:        "Ship products. Stay indie. Build financial freedom.",
-  open_to:     ["Freelance projects", "Collaborations", "Remote opportunities"]
+  deepening:  ["React inside Rails", "esbuild + Tailwind", "Advanced ActiveRecord"],
+  exploring:  ["AI tooling with Ollama", "Gemma 3", "Firebase Cloud Messaging"],
+  goal:       "Ship products. Stay indie. Build financial freedom.",
+  open_to:    ["Freelance projects", "Collaborations", "Remote opportunities"]
 }
 ```
 
@@ -124,8 +135,10 @@ soham = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=100&section=footer" width="100%" />
 
 **Made with ❤️ by Soham · [sohamchavan.site](https://www.sohamchavan.site/)**
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sh1yuu.sh1yuu" alt="visitors" />
 
 </div>
