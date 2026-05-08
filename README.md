@@ -3,6 +3,10 @@
 
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #2E2E2E;">👋 Welcome to My Profile!</h1>
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sh1yuu.sh1yuu" alt="visitors" />
+
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=200&section=header&text=Soham%20Chavan&fontSize=50&fontColor=white&fontAlignY=55&desc=Fullstack%20Developer%20%7C%20Ruby%20on%20Rails%20Specialist&descAlignY=75&descSize=18&animation=fadeIn" width="100%" />
