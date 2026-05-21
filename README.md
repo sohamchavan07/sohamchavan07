@@ -9,13 +9,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=120&section=header" width="100%" />
 
-<h1>Soham Chavan</h1>
+<div align="center">
 
-<h3>🔴 Fullstack Developer &nbsp;|&nbsp; Ruby on Rails Specialist &nbsp;|&nbsp; 🇮🇳 India</h3>
+# Soham Chavan
 
-<br/>
+### 🔴 Fullstack Developer &nbsp;·&nbsp; Ruby on Rails Specialist &nbsp;·&nbsp; 🇮🇳 India
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=CC0000&center=true&vCenter=true&width=560&lines=Building+scalable+Rails+backends+%F0%9F%9A%80;Fullstack+Dev+%7C+React+%2B+Rails;Open+to+Freelance+%26+Collaborations;EdTech+Enthusiast+%F0%9F%93%9A" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-CC0000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.sohamchavan.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohamchavan07/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/soham_chavan07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamchavan.sc07@gmail.com)
 
 </div>
 
@@ -30,15 +35,6 @@ I'm **Soham**, a **Fullstack Developer** from 🇮🇳 India — **Ruby on Rails
 - 🎓 EdTech enthusiast — I think the college system is broken and I'm building to fix it
 - 💼 Actively freelancing & shipping indie products — [see my portfolio →](https://www.sohamchavan.site/)
 - 🤝 Open to **freelance projects**, **remote opportunities**, and **collaborations**
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-CC0000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.sohamchavan.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohamchavan07/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/soham_chavan07)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamchavan.sc07@gmail.com)
-
-</div>
 
 ---
 
@@ -61,6 +57,7 @@ I'm **Soham**, a **Fullstack Developer** from 🇮🇳 India — **Ruby on Rails
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -75,11 +72,13 @@ I'm **Soham**, a **Fullstack Developer** from 🇮🇳 India — **Ruby on Rails
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kamal](https://img.shields.io/badge/Kamal-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
@@ -90,16 +89,44 @@ I'm **Soham**, a **Fullstack Developer** from 🇮🇳 India — **Ruby on Rails
 <table>
   <tr>
     <td width="50%">
+      <h3>🤖 <a href="#">Super Interviewer Agent</a></h3>
+      <p>AI-powered interview prep tool that generates domain-specific questions, evaluates answers, and delivers structured feedback — built for developers serious about interview performance.</p>
+      <p><strong>Stack:</strong> Ruby on Rails · PostgreSQL · LLM Integration</p>
+      <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h3>📚 <a href="https://bookstore.sohamchavan.site/">BookStore</a> &nbsp;<a href="https://github.com/sohamchavan07/bookstore"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></h3>
+      <p>A premium digital library platform with full catalog management, REST API, background job monitoring, and sub-100ms query performance. Clean workspace for bookstores and their teams.</p>
+      <p><strong>Stack:</strong> Ruby on Rails · PostgreSQL · REST API · Solid Queue</p>
+      <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>✍️ <a href="https://blog.sohamchavan.site/">Blog App</a> &nbsp;<a href="https://github.com/sohamchavan07/Blog-App"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></h3>
+      <p>A robust blogging platform with JWT API authentication, Service Object architecture, and Devise integration. Built for developers, writers, and content creators who value speed and security.</p>
+      <p><strong>Stack:</strong> Ruby on Rails · PostgreSQL · Devise · JWT · TailwindCSS</p>
+      <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h3>🎓 <a href="https://students-college-portal.vercel.app/">Students College Portal</a> &nbsp;<a href="https://github.com/sohamchavan07/Students-college-portal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></h3>
+      <p>An AI-powered college recommendation engine — students fill out a profile and receive personalized college suggestions with AI-generated explanations. EdTech meets practical tooling.</p>
+      <p><strong>Stack:</strong> React · TypeScript · Supabase · OpenAI API · TailwindCSS</p>
+      <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>🎯 <a href="https://goalz-app.vercel.app">Goalz</a></h3>
-      <p>Productivity app with push notifications, goal tracking, and offline support. Converted to APK for mobile users.</p>
-      <p><strong>Stack:</strong> HTML · JS · Firebase FCM · Web Notifications API</p>
+      <p>Personal productivity app with goal tracking, deep work sessions, and push notifications. Converted to a native APK for mobile users with offline support and background notifications via Capacitor.</p>
+      <p><strong>Stack:</strong> HTML · JS · Firebase FCM · Capacitor</p>
       <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
     </td>
     <td width="50%">
-      <h3>🤖 Super Interviewer Agent</h3>
-      <p>AI-powered interview prep tool that generates questions, evaluates answers, and gives structured feedback.</p>
-      <p><strong>Stack:</strong> Ruby on Rails · PostgreSQL · AI/LLM Integration</p>
-      <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
+      <h3>💡 More coming soon...</h3>
+      <p>Always building. Check back for new projects or <a href="https://www.sohamchavan.site/">visit my portfolio</a> for the full picture.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Open%20to-Freelance-CC0000?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -130,6 +157,7 @@ I'm **Soham**, a **Fullstack Developer** from 🇮🇳 India — **Ruby on Rails
 soham = {
   deepening:  ["React inside Rails", "esbuild + Tailwind", "Advanced ActiveRecord"],
   exploring:  ["AI tooling with Ollama", "Gemma 3", "Firebase Cloud Messaging"],
+  building:   ["super_interviewer", "EdTech tools", "indie SaaS"],
   goal:       "Ship products. Stay indie. Build financial freedom.",
   open_to:    ["Freelance projects", "Collaborations", "Remote opportunities"]
 }
@@ -142,4 +170,7 @@ soham = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=100&section=footer" width="100%" />
 
 **Made with ❤️ by Soham · [sohamchavan.site](https://www.sohamchavan.site/)**
+
+</div>
+
 
