@@ -46,8 +46,11 @@ Always open to interesting conversations, **freelance gigs**, remote opportuniti
 💬 Let’s build something great — feel free to reach out!
 
 **Portfolio** → https://www.sohamchavan.site
+
 **Email** → soham07.dev@gmail.com
-**Calendly** → https://calendly.com/soham777chavan777/new-meeting
+
+
+**Calendly** →https://calendly.com/soham777chavan777/new-meeting
 
 ---
 
