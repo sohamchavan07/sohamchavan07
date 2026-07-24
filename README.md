@@ -28,15 +28,26 @@
 
 ---
 
-## 👋 About Me
+## 👋 Hi, I'm Soham — a **Rails-first Fullstack Developer**.
 
-I'm **Soham**, a **Fullstack Developer** from 🇮🇳 India — **Ruby on Rails** is my core stack, and I use it to build clean, fast, and scalable web applications from MVPs to full backends.
+I build **clean, performant, and scalable web applications** — from quick MVPs to production-grade backends that developers actually enjoy working with. Ruby on Rails is my primary weapon: I obsess over clean architecture, thoughtful API design, and maintainable codebases.
 
-- 🔴 **Rails-first** developer with deep focus on backend architecture and API design
-- ⚡ Currently diving into **React-in-Rails**, **Advanced ActiveRecord**, and **AI tooling**
-- 🎓 EdTech enthusiast — I think the college system is broken and I'm building to fix it
-- 💼 Actively freelancing & shipping indie products — [see my portfolio →](https://www.sohamchavan.site/)
-- 🤝 Open to **freelance projects**, **remote opportunities**, and **collaborations**
+### What I'm focused on right now
+- **React + Rails** (modern component-driven UIs with the power of Rails)
+- Advanced **ActiveRecord** patterns & query optimization
+- Integrating **AI tooling** to ship faster and smarter
+- **EdTech** products that fix what’s broken in traditional education
+
+### Beyond the code
+I’m actively **freelancing** and shipping **indie products**. I love turning ideas into reality and helping other developers (and students) move faster.
+
+Always open to interesting conversations, **freelance gigs**, remote opportunities, or open-source collaborations.
+
+💬 Let’s build something great — feel free to reach out!
+
+**Portfolio** → https://www.sohamchavan.site
+**Email** → soham07.dev@gmail.com
+**Calendly** → https://calendly.com/soham777chavan777/new-meeting
 
 ---
 
