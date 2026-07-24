@@ -36,7 +36,6 @@ I build **clean, performant, and scalable web applications** — from quick MVPs
 - **React + Rails** (modern component-driven UIs with the power of Rails)
 - Advanced **ActiveRecord** patterns & query optimization
 - Integrating **AI tooling** to ship faster and smarter
-- **EdTech** products that fix what’s broken in traditional education
 
 ### Beyond the code
 I’m actively **freelancing** and shipping **indie products**. I love turning ideas into reality and helping other developers (and students) move faster.
@@ -50,7 +49,7 @@ Always open to interesting conversations, **freelance gigs**, remote opportuniti
 **Email** → soham07.dev@gmail.com
 
 
-**Calendly** →https://calendly.com/soham777chavan777/new-meeting
+**Calendly**→https://calendly.com/soham777chavan777/new-meeting
 
 ---
 
