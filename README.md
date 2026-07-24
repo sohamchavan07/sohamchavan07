@@ -37,10 +37,9 @@ I build **clean, performant, and scalable web applications** — from quick MVPs
 - Advanced **ActiveRecord** patterns & query optimization
 - Integrating **AI tooling** to ship faster and smarter
 
-### Beyond the code
-I’m actively **freelancing** and shipping **indie products**. I love turning ideas into reality and helping other developers (and students) move faster.
-
-Always open to interesting conversations, **freelance gigs**, remote opportunities, or open-source collaborations.
+Open for Work
+**![Available for Hire](https://img.shields.io/badge/Available_for_Hire-Yes-brightgreen?style=flat-square)**  
+I’m actively taking **freelance projects**, remote opportunities, and interesting collaborations.
 
 💬 Let’s build something great — feel free to reach out!
 
