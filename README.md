@@ -1,7 +1,7 @@
 <img align="center" alt ="coding" width ="320" height="250" src = "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #2E2E2E;">👋 Welcome to My Profile!</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #2E2E2E;"> Welcome to My Profile!</h1>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sh1yuu.sh1yuu" alt="visitors" />
 
