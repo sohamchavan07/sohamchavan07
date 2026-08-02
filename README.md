@@ -54,7 +54,7 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
 ## ☕ Support My Work
  
 <div align="center">
-### If my projects or open-source work helped you, consider buying me a coffee! ❤️
+#If my projects or open-source work helped you, consider buying me a coffee! ❤️
  
 <a href="https://buymeacoffee.com/soham_chavan" target="_blank">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
@@ -79,7 +79,7 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-@@ -71,13 +88,11 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
+I’m actively taking **freelance projects**, remote opportunities, and interest
 ![Stimulus](https://img.shields.io/badge/Stimulus-77E8B9?style=for-the-badge&logo=stimulus&logoColor=black)
 ![RSpec](https://img.shields.io/badge/RSpec-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -93,7 +93,7 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-@@ -88,24 +103,20 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
+I’m actively taking **freelance projects**, remote opportunities, and interest
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
@@ -118,7 +118,7 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kamal](https://img.shields.io/badge/Kamal-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-@@ -115,13 +126,12 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
+I’m actively taking **freelance projects**, remote opportunities, and interest
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
