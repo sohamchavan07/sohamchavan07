@@ -54,12 +54,12 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
 ## ☕ Support My Work
  
 <div align="center">
-#If my projects or open-source work helped you, consider buying me a coffee! ❤️
+# If my projects or open-source work helped you, consider buying me a coffee! ❤️
  
 <a href="https://buymeacoffee.com/soham_chavan" target="_blank">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
 </a>
-**👉 [buymeacoffee.com/soham_chavan](https://buymeacoffee.com/soham_chavan) 👈**
+**👉 (https://buymeacoffee.com/soham_chavan) 👈**
  
 <br/>
 <a href="https://buymeacoffee.com/soham_chavan" target="_blank">
