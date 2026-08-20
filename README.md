@@ -1,5 +1,6 @@
 <img align="center" alt ="coding" width ="320" height="250" src = "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
+[![soham chavan profile views](https://u8views.com/api/v1/github/profiles/197448259/views/day-week-month-total-count.svg)](https://u8views.com/github/sohamchavan07)
 
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #2E2E2E;"> Welcome to My Profile!</h1>
 
