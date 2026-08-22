@@ -50,24 +50,7 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
  
 ---
  
-## ☕ Support My Work
- 
-<div align="center">
-# If my projects or open-source work helped you, consider buying me a coffee! ❤️
- 
-<a href="https://buymeacoffee.com/soham_chavan" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-**👉 (https://buymeacoffee.com/soham_chavan) 👈**
- 
-<br/>
-<a href="https://buymeacoffee.com/soham_chavan" target="_blank">
-  <img src="./bmc_qr.png" alt="Scan to Buy Me a Coffee" width="200"/>
-</a>
-*Scan the QR code above to support instantly 🙌*
- 
-</div>
----
+
  
 ## 🛠️ Tech Stack
 
@@ -169,7 +152,25 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
   </tr>
 </table>
 ---
+## ☕ Support My Work
  
+<div align="center">
+# If my projects or open-source work helped you, consider buying me a coffee! ❤️
+ 
+<a href="https://buymeacoffee.com/soham_chavan" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
+**👉 (https://buymeacoffee.com/soham_chavan) 👈**
+ 
+<br/>
+<a href="https://buymeacoffee.com/soham_chavan" target="_blank">
+  <img src="./bmc_qr.png" alt="Scan to Buy Me a Coffee" width="200"/>
+</a>
+*Scan the QR code above to support instantly 🙌*
+ 
+</div>
+---
+
 ## 📊 GitHub Stats
  
 <div align="center">
