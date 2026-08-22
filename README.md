@@ -171,7 +171,10 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
 *Scan the QR code above to support instantly 🙌*
  
 </div>
+
 ---
+
+
 ## 📊 GitHub Stats
  
 <div align="center">
