@@ -152,6 +152,8 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
   </tr>
 </table>
 ---
+
+
 ## ☕ Support My Work
  
 <div align="center">
@@ -170,7 +172,6 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
  
 </div>
 ---
-
 ## 📊 GitHub Stats
  
 <div align="center">
