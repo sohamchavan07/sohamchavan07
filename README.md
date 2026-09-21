@@ -41,7 +41,7 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
  
 💬 Let’s build something great — feel free to reach out!
  
-**Portfolio** → https://www.sohamchavan.site
+**Portfolio** → https://www.sohamcode.online
  
 **Email** → soham07.dev@gmail.com
  
@@ -204,7 +204,7 @@ soham = {
  
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=100&section=footer" width="100%" />
-**Made with ❤️ by Soham · [sohamchavan.site](https://www.sohamcode.online/)**
+**Made with ❤️ by Soham · [sohamchavan.site](https://www.sohamcode.online)**
  
 </div>
 
