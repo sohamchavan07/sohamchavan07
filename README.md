@@ -204,7 +204,7 @@ soham = {
  
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=100&section=footer" width="100%" />
-**Made with ❤️ by Soham · [sohamchavan.site](https://www.sohamchavan.site/)**
+**Made with ❤️ by Soham · [sohamchavan.site](https://www.sohamcode.online/)**
  
 </div>
 
