@@ -33,7 +33,6 @@ I build **clean, performant, and scalable web applications** — from quick MVPs
  
 ### What I'm focused on right now
 - **React + Rails** (modern component-driven UIs with the power of Rails)
-- Advanced **ActiveRecord** patterns & query optimization
 - Integrating **AI tooling** to ship faster and smarter
 Open for Work
 **![Available for Hire](https://img.shields.io/badge/Available_for_Hire-Yes-brightgreen?style=flat-square)**  
