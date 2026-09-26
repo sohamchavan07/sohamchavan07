@@ -40,11 +40,7 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
  
 **Portfolio** → https://www.sohamcode.online
  
-**Email** → soham07.dev@gmail.com
- 
- 
-**Calendly**→https://calendly.com/soham777chavan777/new-meeting
- 
+**Email** → soham07.dev@gmail.com 
 ---
  
 
