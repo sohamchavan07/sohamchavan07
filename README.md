@@ -28,9 +28,7 @@
 ---
 
 ## 👋 Hi, I'm Soham — a **Rails-first Fullstack Developer**.
- 
-I build **clean, performant, and scalable web applications** — from quick MVPs to production-grade backends that developers actually enjoy working with. Ruby on Rails is my primary weapon: I obsess over clean architecture, thoughtful API design, and maintainable codebases.
- 
+
 ### What I'm focused on right now
 - **React + Rails** (modern component-driven UIs with the power of Rails)
 - Integrating **AI tooling** to ship faster and smarter
