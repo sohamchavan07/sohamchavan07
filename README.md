@@ -201,11 +201,14 @@ soham = {
 ```
  
 ---
- 
+<br />
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=100&section=footer" width="100%" />
-**Made with ❤️ by Soham · [sohamchavan.site](https://www.sohamcode.online)**
- 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <br />
+  <p align="center">
+    Made with ❤️ by <b>Soham</b> · <a href="https://www.sohamcode.online">sohamcode.online</a>
+  </p>
 </div>
 
 [![soham chavan profile views](https://u8views.com/api/v1/github/profiles/197448259/views/day-week-month-total-count.svg)](https://u8views.com/github/sohamchavan07)
