@@ -170,12 +170,6 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/sohamchavan07">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamchavan07&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=CC0000&text_color=ffffff" alt="Top Languages" />
-  </a>
-</div>
-
 <br />
 
 <div align="center">
