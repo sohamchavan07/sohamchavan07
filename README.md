@@ -172,9 +172,6 @@ I’m actively taking **freelance projects**, remote opportunities, and interest
 
 <div align="center">
   <a href="https://github.com/sohamchavan07">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sohamchavan07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=CC0000&icon_color=CC0000&text_color=ffffff" alt="Soham's GitHub Stats" />
-  </a>
-  <a href="https://github.com/sohamchavan07">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamchavan07&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=CC0000&text_color=ffffff" alt="Top Languages" />
   </a>
 </div>
